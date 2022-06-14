@@ -151,3 +151,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+mod/dataset/D18-2018.7.24/D18-2018.7.24.csv
+mod/dataset/D18-2018.7.24/PositiveNegativeSymbol.csv
+mod/dataset/db/wikipedia.db
+mod/dataset/w2v_model/wiki.kv
+mod/dataset/w2v_model/wiki.kv.vectors.npy
