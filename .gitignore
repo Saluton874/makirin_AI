@@ -156,3 +156,6 @@ mod/dataset/D18-2018.7.24/PositiveNegativeSymbol.csv
 mod/dataset/db/wikipedia.db
 mod/dataset/w2v_model/wiki.kv
 mod/dataset/w2v_model/wiki.kv.vectors.npy
+mod/wn.py
+mod/dataset/wnjpn-syn-database.1.0/jwn_synonyms.ver.1.0
+mod/dataset/wnjpn-syn-database.1.0/wnjpn.db
